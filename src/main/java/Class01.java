@@ -9,6 +9,7 @@ public class Class01 {
     System.out.println(sum);
         System.out.println("Version 1");
 
-
+// Version 2
+        System.out.println("Version 2");
     }
 }
