@@ -7,6 +7,7 @@ public class Class01 {
     int y = 2;
     int sum= x+y;
     System.out.println(sum);
+        System.out.println("Version 1");
 
 
     }
